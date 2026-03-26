@@ -59,7 +59,7 @@ function mana_render_settings() {
                             <?php if ($locked) : ?>
                                 <span style="color: #d63638; font-weight: bold; margin-left: 10px;">
                                     🔒 Verrouillé par le code (wp-config.php)
-                                    Documentation : <a href="https://github.com/Maanaaa/3dportoflio">https://github.com/Maanaaa/3dportoflio</a>
+                                    Documentation : <a href="https://github.com/Maanaaa/mana-wp-mu-plugin/tree/main">https://github.com/Maanaaa/mana-wp-mu-plugin/tree/main</a>
                                 </span>
                             <?php endif; ?>
                         </label>
